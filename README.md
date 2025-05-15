@@ -1,1 +1,1 @@
-this is a samp filterscripts code by ow
+this is a samp filterscripts code by own
